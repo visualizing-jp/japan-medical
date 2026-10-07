@@ -9,7 +9,7 @@
 
 | slug | タイトル | ローカル | GitHub | 想定サブドメイン | ステータス |
 | ---- | -------- | -------- | ------ | ---------------- | ---------- |
-| checkup | 日本人の健診の数値はどこで違っているか | `../japan-medical-checkup/` | https://github.com/visualizing-jp/japan-medical-checkup | https://japan-medical-checkup.visualizing.jp | 公開 |
+| checkup | NDB特定健診データから見る、血圧・血糖・BMIなどの地域差 | `../japan-medical-checkup/` | https://github.com/visualizing-jp/japan-medical-checkup | https://japan-medical-checkup.visualizing.jp | 公開 |
 
 第1版は第11回NDBオープンデータ（2026-06-16 公開）の特定健診、2023年度。都道府県 × 性 × 年齢の平均値。年次軸はまだ無い。
 

@@ -25,7 +25,7 @@ export const CATEGORIES: { id: CategoryId; label: string }[] = [
 export const CATALOG: CatalogEntry[] = [
   {
     slug: "checkup",
-    title: "日本人の健診の数値はどこで違っているか",
+    title: "NDB特定健診データから見る、血圧・血糖・BMIなどの地域差",
     source: "NDBオープンデータ",
     period: "2023",
     category: "checkup",
