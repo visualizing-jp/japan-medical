@@ -1,10 +1,9 @@
 /**
- * Google Analytics 4。
- * 測定 ID は空。医療シリーズ用のプロパティはまだ置かない。
+ * Google Analytics 4。医療シリーズ共通の測定 ID。
  * 空のあいだはスクリプトを足さない。
  */
 
-const MEASUREMENT_ID: string = "";
+const MEASUREMENT_ID: string = "G-NTEGRDG2ZS";
 
 declare global {
   interface Window {
